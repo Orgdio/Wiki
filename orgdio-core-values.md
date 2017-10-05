@@ -1,7 +1,4 @@
 <!-- TITLE: Orgdio Core Values -->
-<!-- SUBTITLE: A quick summary of Orgdio Core Values -->
-
-# Orgd.io core values
 
 ## Core Value #1: Purpose Driven
 
