@@ -1,8 +1,6 @@
 <!-- TITLE: Code Of Conduct -->
-<!-- SUBTITLE: A quick summary of Code Of Conduct -->
 
-# Header
-Orgd.io Code of Conduct
+# Orgd.io Code of Conduct
 
 Community
 
@@ -57,16 +55,6 @@ When somebody leaves or disengages from the project, we ask that they do so in a
 Leadership, authority and responsibility
 
 We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
-
-Delegation from the top
-
-Responsibility for the project starts with the "benevolent dictator", who delegates specific responsibilities and the corresponding authority to a series of teams, councils and individuals, starting with the Community Council ("CC"). That Council or its delegated representative will arbitrate in any dispute.
-We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates.
-
-Support for delegation is measured
-
-Nominations to the boards and councils are at the discretion of the Community Council, however the Community Council will seek the input of the community before confirming appointments.
-Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
 
 We value discussion, data and decisiveness
 
