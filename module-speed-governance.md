@@ -1,7 +1,8 @@
 <!-- TITLE: Module: Speed Governance -->
 
 
-## State proposal## 
+## State proposal
+## 
 In this section the person making the proposal will state the change they would like to propose.  The proposer optionally also provide some background, their perspective on why they would like to make this change, why they think this proposal best suits their needs, or speak to anything they would like to speak to.
 
 Note that to be a valid proposal, that the proposal needs to be coming from an opportunity currently sensed in one of the proposers roles in the group.  Any group member may ask the facilitator to test the validity of the proposal.  To test the validity, the facilitator will ask the proposer to state the opportunity currently sensed in their role.  The proposal is valid if the facilitator deems the proposal gave a reasonable answer to the question.
