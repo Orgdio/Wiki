@@ -13,6 +13,8 @@ Each group should also have a person who will capture any formal outputs of the 
 
 ### Sections
 
+A full list of sections that can be utilized to create a group's optimal efficiency and output.
+
 
 #### IceBreaker
 
