@@ -16,7 +16,7 @@ There are many great works that shine a light on how we we might structure our c
 
 * Frederick Laloux's Reinventing Organizations. This work posits that there have been different paradigms in which human organizations have operated in over the history of humanity.  These paradigms range from a "red organization" which operates like a wolf-pack with a single alpha-wolf to an "orange organization" which operates in a very traiditional top-down hierarchy.  Frederick states that a new paradigm for organizations is emerging currently, which he dubs a "teal organization".  Teal organizations are run on the concepts of self-organization, wholeness, and evolutionary purpose. [Video](https://www.youtube.com/watch?v=gcS04BI2sbk). [Book](https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501)
 * Niels Pflaeging's Organize For Complexity. [Video](https://www.youtube.com/watch?v=KhTGpgNz0N8). [Book](https://www.amazon.com/Organize-Complexity-Build-High-Performance-Organization/dp/0991537602)
-* Complexity Labs has an extensive suite of courses and articles on span from Systems Thinking to Complex Adaptive Systems. [Site](http://complexitylabs.io/)
+* Complexity Labs has an extensive suite of courses and articles on span from Systems Thinking to Complex Adaptive Systems. [Site](http://complexitylabs.io/).  Specifially their video on [resiliance](https://www.youtube.com/watch?v=HOTWIPmkdzo) provides a good mental framework to bring to bear on organizations.
 
 The works above offer broad-base concepts for organizations to think about.  The works below are more specific low-level methodoligies that have been implemented at organizations to try to help organizations match the patterns described in the works above.
 
