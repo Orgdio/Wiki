@@ -17,10 +17,10 @@ If you would like to be part of our growing community please send an e-mail to c
 [John Bunch] 
 Thoughtful Org Partners, Zappos
 
-Alexis Gonzales-Black 
+[Alexis Gonzales-Black](http://orgd.io/community-member-page/AlexisGonzalesBlack)
 Thoughtful Org Partners, IDEO
 
-Dustin Sitar 
+[Dustin Sitar](http://orgd.io/community-member-page/DustinSitar)
 Thoughtful Org Partners, Entrepreneur
 
 
