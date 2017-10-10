@@ -3,4 +3,4 @@
 
 # List
 
-[Operation Module][orgd.io/]
+[Operation Module][http://orgd.io/module-operational-meeting]
