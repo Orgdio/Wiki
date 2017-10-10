@@ -1,5 +1,6 @@
 <!-- TITLE: Module Decision Methodology Types -->
 
+# Types
 When creating a format for how decisions are made within an organization, multiple paradigms emerge. The following is a couple potential paradigms:
 
 ## Top Down
