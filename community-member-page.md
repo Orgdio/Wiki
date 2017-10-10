@@ -13,11 +13,14 @@ If you would like to be part of our growing community please send an e-mail to c
 
 ## Current Contributors
 
-John Bunch Thoughtful Org Partners, Zappos
+John Bunch 
+Thoughtful Org Partners, Zappos
 
-Alexis Gonzales-Black Thoughtful Org Partners, IDEO
+Alexis Gonzales-Black 
+Thoughtful Org Partners, IDEO
 
-Dustin Sitar Thoughtful Org Partners, Entrepreneur
+Dustin Sitar 
+Thoughtful Org Partners, Entrepreneur
 
 
 All members adhere to the Code of Conduct Policy.
