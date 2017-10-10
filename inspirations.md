@@ -20,7 +20,7 @@ There are many great works that shine a light on how we we might structure our c
 
 The works above offer broad-base concepts for organizations to think about.  The works below are more specific low-level methodoligies that have been implemented at organizations to try to help organizations match the patterns described in the works above.
 
-* (Sociacracy)[https://en.wikipedia.org/wiki/Sociocracy].  
-* (Holacracy)[https://www.holacracy.org/].
-* (Colleague Letter of Understanding)[http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments].
-* (Podularity) [https://medium.com/the-connected-company/the-future-is-podular-c71d090abf80]
+* [Sociacracy](https://en.wikipedia.org/wiki/Sociocracy).
+* [Holacracy](https://www.holacracy.org/).
+* [Colleague Letter of Understanding](http://www.managementexchange.com/story/colleague-letter-understanding-replacing-jobs-commitments).
+* [Podularity](https://medium.com/the-connected-company/the-future-is-podular-c71d090abf80).
