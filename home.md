@@ -1,14 +1,14 @@
 <!-- TITLE: Orgdio -->
 
-In the Organization design world there is a lot out there and a lot left to be discovered.  It can leave you overwhelmed, confuesed, and over your head.  Enter Orgdio. Orgdio is an open-source community of org-design professionals that create modules that are then evolved and validated by clients and org-design professionals.  This allows us to have a flexiable arsenal that can be dialed up or dialed down to strengthen any organization.
+In the Organization design world there is a lot out there and a lot left to be discovered.  It can leave you overwhelmed, confused, and over your head.  Enter Orgdio. Orgdio is an open-source community of org-design professionals that create modules that are then evolved and validated by clients and org-design professionals.  This allows us to have a flexiable arsenal that can be dialed up or dialed down to strengthen any organization.
 
 # Orgdio Vision
-At Orgdio we see a gap between how the world exists today and where it could be.  The world is filled with amazingly resiliant organisms, such as biological ecosystems (forrest, ocean, etc.) and human-made systems (cities).  However our comanies are run in such a way to produce an ever decreasing lifespan.  We believe we can learn methodologies from resiliant organisms and apply them to companies to help comanies increase resiliancy.
+At Orgdio we see a gap between how the world exists today and where it could be.  The world is filled with amazingly resiliant organisms, such as biological ecosystems (forest, ocean, etc.) and human-made systems (cities).  However our companies are run in such a way to produce an ever decreasing lifespan.  We believe we can learn methodologies from resilient organisms and apply them to companies to help companies increase resiliency.
 
 We believe that the best way to create, validate, and evolve these methodologies is through an open and transparent community where the following cycle is practiced:
-1) Org-design professionals use their experience to design methodologies (modules) they believe will help resiliance within companies.
+1) Org-design professionals use their experience to design methodologies (modules) they believe will help resilience within companies.
 2) An org-design professional implements a package of modules within an organization
-3) The client organization gives feedback about what they found beneficial and not beneificial about the modules that were implemented
+3) The client organization gives feedback about what they found beneficial and not beneficial about the modules that were implemented
 4) The community of org-designers takes this feedback and alters the modules in an attempt to improve them.
 5) Rinse and repeat.
 
