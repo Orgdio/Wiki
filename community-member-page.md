@@ -1,5 +1,5 @@
 <!-- TITLE: Community Member Page -->
-<!-- SUBTITLE: A quick summary of Community Member Page -->
+
 
 # Join Us!
 
@@ -9,8 +9,12 @@ Self Management is not a new form of business model. (In fact, the hiearchical b
 
 Enter Orgd.io, an open source community created to match the flexibility and adaptability of the self management systems it creates. Why would a system that is designed to help a company be adaptable, flexible, and evolutionary be stagnant, rigid, and inert? Orgd.io is a platform that allows the consultant or business to change as the client or 
 
+If you would like to be part of our growing community please send an e-mail to community@orgd.io with your name,and reason you would like to join.
+
 Current Contributors
 
 John Bunch Thoughtful Org Partners, Zappos
 
-Alexis
+Alexis Gonzales-Black Thoughtful Org Partners, IDEO
+
+Dustin Sitar Thoughtful Org Partners, Entrepreneur
