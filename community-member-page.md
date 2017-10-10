@@ -20,7 +20,7 @@ Thoughtful Org Partners, Zappos
 [Alexis Gonzales-Black](http://orgd.io/community-member-page/AlexisGonzalesBlack)
 Thoughtful Org Partners, IDEO
 
-[Dustin Sitar](http://orgd.io/community-member-page/DustinSitar)
+[Dustin Sitar](http://orgd.io/community-member-page/Dustin-Sitar)
 Thoughtful Org Partners, Entrepreneur
 
 
