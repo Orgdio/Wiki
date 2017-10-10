@@ -1,7 +1,7 @@
 <!-- TITLE: Module Operational Meeting -->
 <!-- SUBTITLE: A quick summary of Module Operational Meeting -->
 
-## Module: Operational Meeting
+# Module: Operational Meeting
 
 This module is intended to provide a robust set of options for teams that are looking to improve the efficiency and effectiveness of their operational meetings.  
 
