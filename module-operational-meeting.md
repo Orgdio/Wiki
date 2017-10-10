@@ -28,7 +28,11 @@ The icebreaker section is intended to build camaraderie among the group and to g
 
 #### Project Review
 
+In Progress
+
 #### Emergent Agenda
+
+In Progress
 
 #### Checklist for Recurring Items
 ####
