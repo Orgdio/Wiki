@@ -2,7 +2,7 @@
 
 # Orgd.io Code of Conduct
 
-Community
+## Community
 
 We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills.
 We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardize the participation of any person in the project.
@@ -52,7 +52,7 @@ Nobody is expected to be perfect in this community. Asking questions early avoid
 
 When somebody leaves or disengages from the project, we ask that they do so in a way that minimizes disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
-Leadership, authority and responsibility
+## Leadership, authority and responsibility
 
 We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
 
