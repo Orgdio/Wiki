@@ -3,7 +3,7 @@
 
 # Join Us!
 
-Orgd.io is designed by and for org design professionals. It is also created to help businesses interested in taking on the next step in their evolution examine and explore their options. 
+Orgd<i></i>.io is designed by and for org design professionals. It is also created to help businesses interested in taking on the next step in their evolution examine and explore their options. 
 
 Self Management is not a new form of business model. (In fact, the hiearchical business model is a relatively new invention by mankind. While the creation of this model created many advantages in reliability, today's fast evolving marketplaces are currently proving this model to be inefficient and ineffective in many areas.)  Self management org design is exploding. There is new ideas and paradigms being created constantly change the landscape of self-management. The result can be confusing and overwhelming.
 
