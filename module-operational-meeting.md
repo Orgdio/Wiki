@@ -1,5 +1,5 @@
-<!-- TITLE: Module Operational Meeting -->
-<!-- SUBTITLE: A quick summary of Module Operational Meeting -->
+<!-- TITLE: Module: Operational Meeting -->
+
 
 # Module: Operational Meeting
 
