@@ -18,3 +18,6 @@ John Bunch Thoughtful Org Partners, Zappos
 Alexis Gonzales-Black Thoughtful Org Partners, IDEO
 
 Dustin Sitar Thoughtful Org Partners, Entrepreneur
+
+
+All members adhere to the Code of Conduct Policy.
