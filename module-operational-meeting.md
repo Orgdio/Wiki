@@ -10,7 +10,7 @@ Each group should have a person identified as the facilitator of the meeting who
 
 Each group should also have a person who will capture any formal outputs of the meeting.
 
-### Sections
+## Sections
 
 A full list of sections that can be utilized to create a group's optimal efficiency and output.
 
