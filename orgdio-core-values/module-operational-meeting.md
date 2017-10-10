@@ -13,7 +13,7 @@ Each group should also have a person who will capture any formal outputs of the 
 
 Sections
 
-IceBreaker
+###IceBreaker
 
 The icebreaker section is intended to build camaraderie among the group and to get all participants in a good mental space to engage for the rest of the meeting.  The designated facilitator of the group has the ability to run the icebreaker section in the way he/she thinks is best.  A few potential options are outlined below.  The facilitator may choose to run it the same way every meeting or switch it up.
 
