@@ -10,12 +10,10 @@ Each group should have a person identified as the facilitator of the meeting who
 
 Each group should also have a person who will capture any formal outputs of the meeting.
 
-## Sections
-
 A full list of sections that can be utilized to create a group's optimal efficiency and output.
 
 
-#### IceBreaker
+## IceBreaker
 
 
 The icebreaker section is intended to build camaraderie among the group and to get all participants in a good mental space to engage for the rest of the meeting.  The designated facilitator of the group has the ability to run the icebreaker section in the way he/she thinks is best.  A few potential options are outlined below.  The facilitator may choose to run it the same way every meeting or switch it up.
@@ -27,21 +25,21 @@ The icebreaker section is intended to build camaraderie among the group and to g
     * How energized are you about your work in this group?
     * How able do you feel you are to energize your work currently? (1 means you are completely blocked/stifled, 5 means you have a completely clear path ahead)
 
-#### Project Review
+## Project Review
 
 In Progress
 
-#### Emergent Agenda
+## Emergent Agenda
 
 In Progress
 
-#### Checklist for Recurring Items
-####
-#### Metrics
-####
-#### Commitments
-####
-#### Closing
+## Checklist for Recurring Items
+
+## Metrics
+
+## Commitments
+
+## Closing
 
 This section bookends the meeting and allows people a quick place to reflect.  Similar to the *Icebreaker* section, the designated facilitator of the group has the ability to run the icebreaker section in the way he thinks is best.    The facilitator may choose to run it the same way every meeting or switch it up. A few potential options are outlined below:
 
