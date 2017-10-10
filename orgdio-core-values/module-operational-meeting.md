@@ -27,9 +27,9 @@ The icebreaker section is intended to build camaraderie among the group and to g
     * How able do you feel you are to energize your work currently? (1 means you are completely blocked/stifled, 5 means you have a completely clear path ahead)
 
 #### Project Review
-####
+
 #### Emergent Agenda
-####
+
 #### Checklist for Recurring Items
 ####
 #### Metrics
