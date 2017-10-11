@@ -2,7 +2,7 @@
 
 # Governance
 
-We endeavor to make orgdio a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, from answering entry level questions to creating full SM Business Models.
+We endeavor to make orgdio a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, helping beginners and experts alike.
 
 We believe in providing an open, amicable environment for people to contribute pursuant to our Code of Conduct Policy.
 
