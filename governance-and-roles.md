@@ -16,7 +16,9 @@ The governance structure of orgdio will follow these guidelines.
 2. ensure transparency of orgdio decisions
 3. decision are made and executed, even if no clear consensus exists.
 
-Current Method:
+Current Process:
+
+Speed Governance Module:
 
 While all 
 What governance does?  — provides clarity on who can undertake work for the organization and what processes must followed in doing so.
