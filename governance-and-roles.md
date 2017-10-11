@@ -37,9 +37,9 @@ Orgdio operates on Speed Governance Module.  Any community member may call for g
 **Purpose:** An inspiring vision for what wild success looks like for Orgd.io
 
 **Accountability:** Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
-Accountability: Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
+**Accountability:** Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
 
-Role Holder: John Bunch
+*Role Holder:* John Bunch
 
 ## Technology
 Purpose: Technology tools that enable Orgd.io at large to express its purpose
