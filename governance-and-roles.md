@@ -1,6 +1,7 @@
 <!-- TITLE: Governance And Roles -->
 
 # Governance
+
 We endeavor to make orgdio a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, from answering entry level questions to creating full SM Business Models.
 
 We believe in providing an open, amicable environment for people to contribute pursuant to our Code of Conduct Policy.
@@ -9,15 +10,18 @@ Governance is important in facilitating the contribution that will be most effec
 
 The plan for orgdio is to embrace knowledge and understanding of all forms of SM. The goal is to explore and improve SM in any way possible.
 
-The governance structure of orgd.io will follow these guidelines.
+The governance structure of orgdio will follow these guidelines.
 
-1. define the method that people contribute to the project
-2. ensure transparency and autarchicality of orgd.io decisions
+1. define the method in which people can undertake work for the organization
+2. ensure transparency of orgdio decisions
 3. decision are made and executed, even if no clear consensus exists.
 
+Current Method:
+
+While all 
 What governance does?  — provides clarity on who can undertake work for the organization and what processes must followed in doing so.
 
-Orgd.io operates on Speed Governance Module.  Any community member may call for governance to be processed at any time. Role assignments/assignments are done by a process of majority vote.  (For clarity, its is probable that majority vote for role assignments is the best or most scalable way to conduct this activity but works current at current capacity)
+Orgdio operates on Speed Governance Module.  Any community member may call for governance to be processed at any time. Role assignments/assignments are done by a process of majority vote.  (For clarity, its is probable that majority vote for role assignments is the best or most scalable way to conduct this activity but works current at current capacity)
 
 # Roles
 ## Community Member
