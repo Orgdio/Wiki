@@ -28,15 +28,15 @@ Orgdio operates on Speed Governance Module.  Any community member may call for g
 # Roles
 ## Community Member
 
-Purpose:  To add your unique value and perspective to the Orgd.io community
+**Purpose:**  To add your unique value and perspective to the Orgd.io community
 
-Accountability: Aligning with practices defined by the community practices role
+**Accountability:** Aligning with practices defined by the community practices role
 
 
 ## Orgd.io Vision and Guiding Principles
-Purpose: An inspiring vision for what wild success looks like for Orgd.io
+**Purpose:** An inspiring vision for what wild success looks like for Orgd.io
 
-Accountability: Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
+**Accountability:** Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
 Accountability: Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
 
 Role Holder: John Bunch
