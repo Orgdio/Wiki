@@ -20,13 +20,13 @@ What governance does?  — provides clarity on who can undertake work for the or
 Orgd.io operates on Speed Governance Module.  Any community member may call for governance to be processed at any time. Role assignments/assignments are done by a process of majority vote.  (For clarity, its is probable that majority vote for role assignments is the best or most scalable way to conduct this activity but works current at current capacity)
 
 # Roles
-Role: Community Member
+## Role: Community Member
 
 Purpose:  To add your unique value and perspective to the Orgd.io community
 Accountability: Aligning with practices defined by the community practices role
 
 
-Role: Orgd.io Vision and Guiding Principles
+## Role: Orgd.io Vision and Guiding Principles
 Purpose: An inspiring vision for what wild success looks like for Orgd.io
 Accountability: Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
 Accountability: Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
