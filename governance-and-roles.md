@@ -20,25 +20,25 @@ What governance does?  — provides clarity on who can undertake work for the or
 Orgd.io operates on Speed Governance Module.  Any community member may call for governance to be processed at any time. Role assignments/assignments are done by a process of majority vote.  (For clarity, its is probable that majority vote for role assignments is the best or most scalable way to conduct this activity but works current at current capacity)
 
 # Roles
-## Role: Community Member
+## Community Member
 
 Purpose:  To add your unique value and perspective to the Orgd.io community
 Accountability: Aligning with practices defined by the community practices role
 
 
-## Role: Orgd.io Vision and Guiding Principles
+## Orgd.io Vision and Guiding Principles
 Purpose: An inspiring vision for what wild success looks like for Orgd.io
 Accountability: Creating and maintaining guiding principles that all efforts of Orgd.io can align around.
 Accountability: Creating and maintaining the Orgd.io core values: a document that helps to tell the world what the platform is and why it exists in a clear and concise manner
 Role Holder: John Bunch
 
-Role: Technology
+## Technology
 Purpose: Technology tools that enable Orgd.io at large to express its purpose
 Accountability: Maintaining the Orgd.io public website
 Accountability:  Maintaining a technology platform that allows community discussion/module evolution
 Role Holder: John Bunch, Dustin Sitar
 
-Role: Finance
+### Finance
 Purpose: Ensure Orgdio has the financial means to enact and operate its governance as well as to grow the community.
 Accountability:  Creating financial systems that align with the Orgdio Vision.
 Role Holder: Dustin Sitar
