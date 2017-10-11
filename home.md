@@ -17,4 +17,11 @@ We draw inspiration from the open-sourced software community that follows a simi
 Our core values are: #1 Purpose Driven, #2 Evolve, #3 Community Focused, #4 Open-Sourced and Self-Governed.  To learn more detail on our core values check out [Core Values page](http://orgd.io/orgdio-core-values)
 
 # Orgdio Community
-We are just getting started with our initial community initiation and growth efforts.  We are excited about the oppurtunities that lay ahead.  To learn more or to get involed check our out our [Community page](http://orgd.io/community-member-page).
+We are just getting started with our initial community initiation and growth efforts.  We are excited about the oppurtunities that lay ahead.  To learn more or to get involved check our out our [Community page](http://orgd.io/community-member-page).
+
+# Orgdio Governance and Roles
+
+Orgdio is a self-governed open source project. A very general structure allows the roles and processes to define the community. The [Governance and Roles](http://orgd.io/Governance-and-Roles) page has our current structure.
+
+
+
