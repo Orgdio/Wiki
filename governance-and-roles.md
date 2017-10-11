@@ -38,28 +38,28 @@ Accountability: Maintaining the Orgd.io public website
 Accountability:  Maintaining a technology platform that allows community discussion/module evolution
 Role Holder: John Bunch, Dustin Sitar
 
-### Finance
+## Finance
 Purpose: Ensure Orgdio has the financial means to enact and operate its governance as well as to grow the community.
 Accountability:  Creating financial systems that align with the Orgdio Vision.
 Role Holder: Dustin Sitar
 
-Role: Community Engagement/Growth
+## Community Engagement/Growth
 Purpose: Create a vibrant ecosystem that fosters open and honest discussions about how  organizations can grow into better versions of themselves.
 Accountability: Ensuring that the community is meeting the needs of its users.
 Accountability:  Growing the community at a sustainable rate wherein we can maintain a level of cohesion and ensure that the community is adhering to community practices.
 Role Holder: Alexis Gonzales-Black, John Bunch
 
-Role: Initial Module Creation
+## Initial Module Creation
 Purpose: A full set of organizational modules that an organization could choose from to create a fully operational setup.
 Accountability: Creating a taxonomy for organizational modules to help with discovery.
 Role Holders: Alexis Gonzales-Black, John Bunch
 
-Role: Community Practices
+## Community Practices
 Purpose: A set of defined practices that maximize community engagement, discussion, ideation, and evolution. 
 Role Holder: Dustin Sitar
 
 
-### Role: Feedback Specialist
+## Feedback Specialist
 
 Purpose: To find opportunities for and create positive feedback loops that help Orgdio run smoothly and achieve its overall purpose.
 Accountability:  Creating a methodology for understanding how much different community members are adding to the community in such a way that also lends itself to a positive collaborative community spirit.
