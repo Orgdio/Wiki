@@ -59,7 +59,7 @@ Purpose: A set of defined practices that maximize community engagement, discussi
 Role Holder: Dustin Sitar
 
 
-Role: Feedback Specialist
+### Role: Feedback Specialist
 
 Purpose: To find opportunities for and create positive feedback loops that help Orgdio run smoothly and achieve its overall purpose.
 Accountability:  Creating a methodology for understanding how much different community members are adding to the community in such a way that also lends itself to a positive collaborative community spirit.
