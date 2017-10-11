@@ -1,13 +1,13 @@
 <!-- TITLE: Governance And Roles -->
 
 # Governance
-We endeavor to make orgd.io a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, from answering entry level questions to creating full SM Business Models.
+We endeavor to make orgdio a collaborative, enjoyable, SM (self-management) development project. We will promote all things helpful to this area, from answering entry level questions to creating full SM Business Models.
 
 We believe in providing an open, amicable environment for people to contribute pursuant to our Code of Conduct Policy.
 
 Governance is important in facilitating the contribution that will be most effective for the community. Our governance should only aid and never hinder positive engagement and contribution from the community.
 
-The plan for orgd.io is to embrace knowledge and understanding of all forms of SM. While the founders initial contribution and overall contribution may be directed in one direction, the goal is to explore and improve SM in any way possible.
+The plan for orgdio is to embrace knowledge and understanding of all forms of SM. The goal is to explore and improve SM in any way possible.
 
 The governance structure of orgd.io will follow these guidelines.
 
